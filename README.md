@@ -1,6 +1,6 @@
 <div align="center">
   <h2>Hello There! I'm Neta 👋</h2>
-  <b>Software Engineering Student · IDF Mamram Ex · IT Specialist</b><br>
+  <b>Software Engineering Student · Python, Java, C, SQL · IDF Mamram Ex</b><br>
   📍 Israel | Building strong foundations in software development 
   
   <br><br>
